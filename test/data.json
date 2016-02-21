@@ -1,0 +1,220 @@
+{
+  "xml": {
+    "$attr": {
+      "version": "1.0",
+      "encoding": "UTF-8"
+    }
+  },
+  "ADT_A04": {
+    "$attr": {
+      "xmlns": "urn:hl7-org:v2xml"
+    },
+    "MSH": {
+      "MSH.1": "|",
+      "MSH.2": "^~\\&amp;",
+      "MSH.3": {
+        "HD.1": "NES"
+      },
+      "MSH.4": {
+        "HD.1": "NINTENDO"
+      },
+      "MSH.5": {
+        "HD.1": "TESTSYSTEM"
+      },
+      "MSH.6": {
+        "HD.1": "TESTFACILITY"
+      },
+      "MSH.7": {
+        "TS.1": "20010101000000"
+      },
+      "MSH.9": {
+        "CM_MSG.1": "ADT",
+        "CM_MSG.2": "A04"
+      },
+      "MSH.10": "Q123456789T123456789X123456",
+      "MSH.11": {
+        "PT.1": "P"
+      },
+      "MSH.12": "2.3"
+    },
+    "EVN": {
+      "EVN.1": "A04",
+      "EVN.2": {
+        "TS.1": "20010101000000"
+      },
+      "EVN.5": {
+        "CN.2": "KOOPA",
+        "CN.3": "BOWSER"
+      }
+    },
+    "PID": {
+      "PID.1": "1",
+      "PID.3": {
+        "CX.1": "123456789"
+      },
+      "PID.4": {
+        "CX.1": "0123456789",
+        "CX.2": "AA",
+        "CX.4": {
+          "HD.1": "JP"
+        }
+      },
+      "PID.5": {
+        "XPN.1": "BROS",
+        "XPN.2": "MARIO"
+      },
+      "PID.7": {
+        "TS.1": "19850101000000"
+      },
+      "PID.8": "M",
+      "PID.11": {
+        "XAD.1": "123 FAKE STREET",
+        "XAD.2": "MARIO &amp; LUIGI BROS PLACE",
+        "XAD.3": "TOADSTOOL KINGDOM",
+        "XAD.4": "NES",
+        "XAD.5": "A1B2C3",
+        "XAD.6": "JP",
+        "XAD.7": "HOME",
+        "XAD.9": "1234"
+      },
+      "PID.12": "1234",
+      "PID.13": {
+        "XTN.1": "(555)555-0123",
+        "XTN.2": "HOME",
+        "XTN.3": "JP:1234567"
+      },
+      "PID.16": "S",
+      "PID.17": "MSH",
+      "PID.18": {
+        "CX.1": "12345678"
+      },
+      "PID.25": "0",
+      "PID.30": "N"
+    },
+    "NK1": [
+      {
+        "NK1.1": "1",
+        "NK1.2": {
+          "XPN.1": "PEACH",
+          "XPN.2": "PRINCESS"
+        },
+        "NK1.3": {
+          "CE.1": "SO"
+        },
+        "NK1.4": {
+          "XAD.1": "ANOTHER CASTLE",
+          "XAD.3": "TOADSTOOL KINGDOM",
+          "XAD.4": "NES",
+          "XAD.6": "JP"
+        },
+        "NK1.5": {
+          "XTN.1": "(123)555-1234"
+        },
+        "NK1.6": {
+          "XTN.1": "(123)555-2345"
+        },
+        "NK1.7": {
+          "CE.1": "NOK"
+        }
+      },
+      {
+        "NK1.1": "2",
+        "NK1.2": {
+          "XPN.1": "TOADSTOOL",
+          "XPN.2": "PRINCESS"
+        },
+        "NK1.3": {
+          "CE.1": "SO"
+        },
+        "NK1.4": {
+          "XAD.1": "YET ANOTHER CASTLE",
+          "XAD.3": "TOADSTOOL KINGDOM",
+          "XAD.4": "NES",
+          "XAD.6": "JP"
+        },
+        "NK1.5": {
+          "XTN.1": "(123)555-3456"
+        },
+        "NK1.6": {
+          "XTN.1": "(123)555-4567"
+        },
+        "NK1.7": {
+          "CE.1": "EMC"
+        }
+      }
+    ],
+    "PV1": {
+      "PV1.1": "1",
+      "PV1.2": "O",
+      "PV1.3": {
+        "PL.1": "ABCD",
+        "PL.2": "EFGH"
+      },
+      "PV1.7": {
+        "XCN.1": "123456",
+        "XCN.2": "DINO",
+        "XCN.3": "YOSHI",
+        "XCN.9": {
+          "HD.1": "MSRM"
+        },
+        "XCN.10": "CURRENT",
+        "XCN.13": "NEIGHBOURHOOD DR NBR"
+      },
+      "PV1.8": {
+        "XCN.2": "DOG",
+        "XCN.3": "DUCKHUNT",
+        "XCN.10": "CURRENT"
+      },
+      "PV1.10": "CRD",
+      "PV1.17": {
+        "XCN.1": "123456",
+        "XCN.2": "DINO",
+        "XCN.3": "YOSHI",
+        "XCN.9": {
+          "HD.1": "MSRM"
+        },
+        "XCN.10": "CURRENT",
+        "XCN.13": "NEIGHBOURHOOD DR NBR"
+      },
+      "PV1.18": "AO",
+      "PV1.19": {
+        "CX.1": "0123456789"
+      },
+      "PV1.20": {
+        "FC.1": "1"
+      },
+      "PV1.39": "MSH",
+      "PV1.41": "A",
+      "PV1.44": {
+        "TS.1": "20010101000000"
+      }
+    },
+    "ADT_A04.INSURANCE": [
+      {
+        "IN1": {
+          "IN1.1": "1",
+          "IN1.2": {
+            "CE.1": "PAR",
+            "CE.2": "PARENT"
+          },
+          "IN1.6": {
+            "XPN.1": "LUIGI"
+          }
+        }
+      },
+      {
+        "IN1": {
+          "IN1.1": "2",
+          "IN1.2": {
+            "CE.1": "FRI",
+            "CE.2": "FRIEND"
+          },
+          "IN1.6": {
+            "XPN.1": "PRINCESS"
+          }
+        }
+      }
+    ]
+  }
+}
+
