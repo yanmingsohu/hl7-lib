@@ -1,5 +1,5 @@
 {
-  "name": "hl7-lib",
+  "name": "@yanmingsohu/hl7-lib",
   "version": "0.1.2",
   "description": "java hl7 pack",
   "main": "index.js",
