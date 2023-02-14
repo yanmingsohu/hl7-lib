@@ -9,10 +9,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "none"
+    "url": "https://github.com/yanmingsohu/hl7-lib"
   },
   "author": "yanming",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "java-factory-lib": "^0.1.25",
     "xson-lib": "^0.1.1"
